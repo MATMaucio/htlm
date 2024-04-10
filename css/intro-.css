@@ -1,4 +1,10 @@
 html{
-background-color: aqua;
-color: blueviolet;
+background-color: rgb(241, 163, 255);
+color: rgb(45, 175, 241);
+scroll-behavior: smooth;
+}
+
+img {
+max-width: 100%;
+
 }
